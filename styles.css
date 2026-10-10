@@ -271,7 +271,6 @@ footer {
 
 .Product {
     background-color: #d5a772;
-    outline-style: solid;
     border-radius: 10px;
     width: 25%;
     height: 450px;
@@ -340,6 +339,7 @@ footer {
     margin-right: 35%;
 }
 
+
 .FORMtitle {
     margin-top: 1%;
     margin-bottom: 1%;
@@ -394,9 +394,10 @@ footer {
 }
 
 .FORMsbmt:hover {
-    background-color: #74b580;
+    background-color: #5d9d68;
     cursor: pointer;
 }
+
 
 .AboutUsBody {
     width: 75%;
