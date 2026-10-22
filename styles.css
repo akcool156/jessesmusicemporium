@@ -9,7 +9,7 @@
 }
 @font-face {
   font-family: 'latoBold';
-  src: url('/Fonts/Lato/Lato-Bold.ttf') format('truetype');
+  src: url('Fonts/Lato/Lato-Bold.ttf') format('truetype');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
